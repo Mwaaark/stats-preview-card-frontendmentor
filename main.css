@@ -17,7 +17,7 @@ body {
 }
 
 .card {
-  margin: 5rem auto;
+  margin-block: 3rem;
   border-radius: 15px;
   overflow: hidden;
   background-color: hsl(244, 38%, 16%);
